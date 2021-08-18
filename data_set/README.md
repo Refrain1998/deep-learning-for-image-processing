@@ -11,6 +11,4 @@
        ├── train（生成的训练集，3306个样本）  
        └── val（生成的验证集，364个样本） 
 ```
-this is a test
 this is a dev test
-this is second dev test

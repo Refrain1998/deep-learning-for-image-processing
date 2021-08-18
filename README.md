@@ -39,25 +39,27 @@
     * [ResNeXt网络讲解](https://www.bilibili.com/video/BV1Ap4y1p71v/)
     * [Pytorch搭建ResNeXt网络](https://www.bilibili.com/video/BV1rX4y1N7tE)
   
-  * MobileNet（已完成）
+  * MobileNet_v1_v2（已完成）
     * [MobileNet_v1_v2网络讲解](https://www.bilibili.com/video/BV1yE411p7L7)
-    * [MobileNet_v3网络讲解](https://www.bilibili.com/video/BV1GK4y1p7uE)
     * [Pytorch搭建MobileNetV2网络](https://www.bilibili.com/video/BV1qE411T7qZ)
-    * [Pytorch搭建MobileNetV3网络](https://www.bilibili.com/video/BV1zT4y1P7pd)
     * [Tensorflow2搭建MobileNetV2网络](https://www.bilibili.com/video/BV1NE411K7tX)
+
+  * MobileNet_v3（已完成）
+    * [MobileNet_v3网络讲解](https://www.bilibili.com/video/BV1GK4y1p7uE)
+    * [Pytorch搭建MobileNetV3网络](https://www.bilibili.com/video/BV1zT4y1P7pd)
     * [Tensorflow2搭建MobileNetV3网络](https://www.bilibili.com/video/BV1KA411g7wX)
   
-  * ShuffleNet (已完成)
+  * ShuffleNet_v1_v2 (已完成)
     * [ShuffleNet_v1_v2网络讲解](https://www.bilibili.com/video/BV15y4y1Y7SY)
     * [使用Pytorch搭建ShuffleNetv2](https://www.bilibili.com/video/BV1dh411r76X)
     * [使用Tensorflow2搭建ShuffleNetv2](https://www.bilibili.com/video/BV1kr4y1N7bh)
 
-  * EfficientNet（已完成）
+  * EfficientNet_v1（已完成）
     * [EfficientNet网络讲解](https://www.bilibili.com/video/BV1XK4y1U7PX)
     * [使用Pytorch搭建EfficientNet](https://www.bilibili.com/video/BV19z4y1179h/)
     * [使用Tensorflow2搭建EfficientNet](https://www.bilibili.com/video/BV1PK4y1S7Jf)
 
-  * EfficientNetV2 (已完成)
+  * EfficientNet_v2 (已完成)
     * [EfficientNetV2网络讲解](https://b23.tv/NDR7Ug)
     * [使用Pytorch搭建EfficientNetV2](https://b23.tv/M4hagB)
     * [使用Tensorflow搭建EfficientNetV2](https://b23.tv/KUPbdr)
@@ -83,7 +85,10 @@
     * [YOLO系列网络讲解](https://www.bilibili.com/video/BV1yi4y1g7ro)
     * [YOLOv3 SPP源码解析(Pytorch版)](https://www.bilibili.com/video/BV1t54y1C7ra)
 
-* 目标分割
+* 目标分割 
+  * FCN (准备中)
+    * FCN网络详解
+    * FCN源码解析(Pytorch版)
 
 **[更多相关视频请进入我的bilibili频道查看](https://space.bilibili.com/18161609/channel/index)**
 
